@@ -1,0 +1,44 @@
+#define CLOUDS
+#define CLOUD_STEPS 16 // [6 8 12 16 24 32]
+#define CLOUD_HEIGHT 220 // [150 180 220 260 300]
+#define CLOUD_THICKNESS 90 // [50 70 90 120]
+#define CLOUD_COVERAGE 0.55 // [0.30 0.40 0.50 0.55 0.60 0.70 0.80]
+#define CLOUD_SPEED 3.0 // [0.0 1.0 2.0 3.0 5.0 8.0]
+#define WATER_REFLECTIONS
+#define SSR_STEPS 24 // [12 16 24 32]
+#define WAVE_STRENGTH 0.08 // [0.0 0.04 0.08 0.12 0.16]
+#define EXPOSURE 1.0 // [0.6 0.8 1.0 1.2 1.4]
+#define SATURATION 1.10 // [0.8 1.0 1.1 1.2 1.4]
+#define WAVING_FOLIAGE
+#define WIND_STRENGTH 1.0 // [0.0 0.5 1.0 1.5 2.0]
+#define RAIN_PUDDLES
+#define WATER_ABSORB 1.0 // [0.5 1.0 1.5 2.0]
+#define CAUSTICS
+#define CAUSTIC_STRENGTH 2.5 // [0.5 1.0 1.5 2.5 3.5 5.0]
+#define GALAXY
+#define GALAXY_BRIGHTNESS 1.0 // [0.5 0.75 1.0 1.5 2.0]
+#define AURORA
+//#define AURORA_ALL_BIOMES
+//#define AURORA_ALWAYS_VISIBLE
+#define AURORA_BRIGHTNESS 1.0 // [0.5 0.75 1.0 1.5 2.0 3.0]
+#define AURORA_SPEED 1.0 // [0.25 0.5 1.0 1.5 2.0 3.0]
+#define AURORA_COLOR 1 // [0 1 2 3]
+#define AURORA_STEPS 10 // [6 10 14 20]
+#define AB_SNOWY_PLAINS
+#define AB_ICE_SPIKES
+#define AB_SNOWY_TAIGA
+#define AB_SNOWY_SLOPES
+#define AB_GROVE
+#define AB_FROZEN_PEAKS
+#define AB_JAGGED_PEAKS
+#define AB_TAIGA
+#define AB_OLD_GROWTH_PINE_TAIGA
+#define AB_OLD_GROWTH_SPRUCE_TAIGA
+#define AB_SNOWY_BEACH
+#define AB_FROZEN_RIVER
+#define AB_FROZEN_OCEAN
+#define AB_DEEP_FROZEN_OCEAN
+//#define AB_CUSTOM_1
+//#define AB_CUSTOM_2
+//#define AB_CUSTOM_3
+//#define AB_CUSTOM_4
